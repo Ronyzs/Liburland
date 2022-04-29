@@ -1,3 +1,3 @@
 # Liburland
 
-## This project used Booststrap Framework for Liburland Website
+## This project used Bootstrap Framework for Liburland Website
