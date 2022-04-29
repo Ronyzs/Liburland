@@ -24,3 +24,7 @@
     cursor: pointer;
     color: black;
 }
+
+#slides {
+    padding: 3cm 1cm 3cm 1cm;
+}
