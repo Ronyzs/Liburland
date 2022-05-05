@@ -8,6 +8,7 @@
 #nav-item li a {
     font-size: 22px;
     text-transform: uppercase;
+    font-weight: 800;
 }
 
 #btn-buy-ticket {
